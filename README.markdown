@@ -4,6 +4,11 @@
 `Snudown` is a reddit-specific fork of the [Sundown](http://github.com/tanoku/sundown)
 Markdown parser used by GitHub, with Python integration added.
 
+THis particular fork is for Uppit.us and anyone else who needs a 
+copy of Snudown with IPv6 link parsing, since the code to do so 
+is unlikely to be merged into reddit/snudown. For more info on 
+this [check out the pull request for it](https://github.com/reddit/snudown/pull/41).
+
 
 Install
 -------
