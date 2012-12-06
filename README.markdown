@@ -23,6 +23,7 @@ Thanks
 ------
 
 Many thanks to @tanoku for implementing the initial version of this fork!
+
 Also, thanks for working on IPv6 parsing support @cyisfor & @user!
 
 
